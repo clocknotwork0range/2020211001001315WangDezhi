@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="2020211001001315Wang Dezhi:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>2020211001001315Wang Dezhi</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="WangDezhi2020211001001315-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="2020211001001315Wang Dezhi:war exploded" />
+    </root>
+  </artifact>
+</component>
